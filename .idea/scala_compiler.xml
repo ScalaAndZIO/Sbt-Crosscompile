@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="incrementalityType" value="SBT" />
+    <profile name="sbt 1" modules="myProjectShared~1,crosscompileplatforms3,users,users~1,fresh,myProjectNativeWin10,crosscompileplatforms3june,myProjectDocker,myProjectJVM,myProjectShared" />
+    <profile name="sbt 2" modules="myProjectJS">
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/org.scala-js/scalajs-compiler_2.11.12/jars/scalajs-compiler_2.11.12-0.6.23.jar" />
+      </plugins>
+    </profile>
+    <profile name="sbt 3" modules="myProjectNativeUbuntu18">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-Xcheckinit" />
+        <parameter value="-encoding" />
+        <parameter value="utf8" />
+      </parameters>
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/org.scala-native/nscplugin_2.11.12/jars/nscplugin_2.11.12-0.3.7.jar" />
+      </plugins>
+    </profile>
+    <profile name="sbt 4" modules="myProjectNative">
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/org.scala-native/nscplugin_2.11.12/jars/nscplugin_2.11.12-0.3.7.jar" />
+      </plugins>
+    </profile>
+    <profile name="sbt 5" modules="myProjectAndroid">
+      <parameters>
+        <parameter value="-bootclasspath" />
+        <parameter value="$PROJECT_DIR$/../../../Android/Sdk/platforms/android-23/android.jar" />
+        <parameter value="-javabootclasspath" />
+        <parameter value="$PROJECT_DIR$/../../../Android/Sdk/platforms/android-23/android.jar" />
+      </parameters>
+    </profile>
+  </component>
+</project>

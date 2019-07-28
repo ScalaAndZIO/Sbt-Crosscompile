@@ -1,0 +1,16 @@
+[0m[[0minfo[0m] [0mFast optimizing /home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/js/target/scala-2.11/myproject-test-fastopt.js[0m
+[0m[[0mdebug[0m] [0mLinker: Compute reachability: 1462454 us[0m
+[0m[[0mdebug[0m] [0mLinker: Assemble LinkedClasses: 943449 us[0m
+[0m[[0mdebug[0m] [0mBasic Linking: 2524335 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Batch mode: true[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Incremental part: 1158538 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizing 5679 methods.[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizer part: 4466374 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: 5672552 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Compute reachability: 144826 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Assemble LinkedClasses: 43324 us[0m
+[0m[[0mdebug[0m] [0mRefiner: 194892 us[0m
+[0m[[0mdebug[0m] [0mEmitter: Class tree cache stats: reused: 622 -- invalidated: 636[0m
+[0m[[0mdebug[0m] [0mEmitter: Method tree cache stats: resued: 0 -- invalidated: 3250[0m
+[0m[[0mdebug[0m] [0mEmitter (write output): 1716414 us[0m
+[0m[[0mdebug[0m] [0mGlobal IR cache stats: reused: 0 -- invalidated: 14 -- trees read: 781[0m

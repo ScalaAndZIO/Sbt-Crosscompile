@@ -1,0 +1,50 @@
+[0m[[0mdebug[0m] [0mjavaOptions: List()[0m
+[0m[[0mdebug[0m] [0mForking tests - parallelism = false[0m
+[0m[[0mdebug[0m] [0mCreate a single-thread test executor[0m
+[0m[[31merror[0m] [0mUncaught exception when running tests: java.io.InvalidClassException: sbt.testing.TaskDef; local class incompatible: stream classdesc serialVersionUID = -7417691495999416204, local class serialVersionUID = 2663134200025980977[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 3 seconds, 522 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 0[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 0, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 0, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[33mNo tests were executed.[0m[0m
+[0m[[31merror[0m] [0mError during tests:[0m
+[0m[[31merror[0m] [0m	Forked test harness failed: java.net.SocketException: Connection reset[0m
+[0m[[31merror[0m] [0m	at java.net.SocketInputStream.read(SocketInputStream.java:210)[0m
+[0m[[31merror[0m] [0m	at java.net.SocketInputStream.read(SocketInputStream.java:141)[0m
+[0m[[31merror[0m] [0m	at java.net.SocketInputStream.read(SocketInputStream.java:224)[0m
+[0m[[31merror[0m] [0m	at java.io.ObjectInputStream$PeekInputStream.peek(ObjectInputStream.java:2631)[0m
+[0m[[31merror[0m] [0m	at java.io.ObjectInputStream$BlockDataInputStream.readBlockHeader(ObjectInputStream.java:2825)[0m
+[0m[[31merror[0m] [0m	at java.io.ObjectInputStream$BlockDataInputStream.refill(ObjectInputStream.java:2895)[0m
+[0m[[31merror[0m] [0m	at java.io.ObjectInputStream$BlockDataInputStream.read(ObjectInputStream.java:2967)[0m
+[0m[[31merror[0m] [0m	at java.io.DataInputStream.readInt(DataInputStream.java:387)[0m
+[0m[[31merror[0m] [0m	at java.io.ObjectInputStream$BlockDataInputStream.readInt(ObjectInputStream.java:3172)[0m
+[0m[[31merror[0m] [0m	at java.io.ObjectInputStream.readInt(ObjectInputStream.java:1028)[0m
+[0m[[31merror[0m] [0m	at java.util.ArrayList.readObject(ArrayList.java:786)[0m
+[0m[[31merror[0m] [0m	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[31merror[0m] [0m	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)[0m
+[0m[[31merror[0m] [0m	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[31merror[0m] [0m	at java.lang.reflect.Method.invoke(Method.java:498)[0m
+[0m[[31merror[0m] [0m	at java.io.ObjectStreamClass.invokeReadObject(ObjectStreamClass.java:1158)[0m
+[0m[[31merror[0m] [0m	at java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:2169)[0m
+[0m[[31merror[0m] [0m	at java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:2060)[0m
+[0m[[31merror[0m] [0m	at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1567)[0m
+[0m[[31merror[0m] [0m	at java.io.ObjectInputStream.defaultReadFields(ObjectInputStream.java:2278)[0m
+[0m[[31merror[0m] [0m	at java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:2202)[0m
+[0m[[31merror[0m] [0m	at java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:2060)[0m
+[0m[[31merror[0m] [0m	at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1567)[0m
+[0m[[31merror[0m] [0m	at java.io.ObjectInputStream.defaultReadFields(ObjectInputStream.java:2278)[0m
+[0m[[31merror[0m] [0m	at java.io.ObjectInputStream.defaultReadObject(ObjectInputStream.java:557)[0m
+[0m[[31merror[0m] [0m	at java.lang.Throwable.readObject(Throwable.java:914)[0m
+[0m[[31merror[0m] [0m	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)[0m
+[0m[[31merror[0m] [0m	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)[0m
+[0m[[31merror[0m] [0m	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)[0m
+[0m[[31merror[0m] [0m	at java.lang.reflect.Method.invoke(Method.java:498)[0m
+[0m[[31merror[0m] [0m	at java.io.ObjectStreamClass.invokeReadObject(ObjectStreamClass.java:1158)[0m
+[0m[[31merror[0m] [0m	at java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:2169)[0m
+[0m[[31merror[0m] [0m	at java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:2060)[0m
+[0m[[31merror[0m] [0m	at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1567)[0m
+[0m[[31merror[0m] [0m	at java.io.ObjectInputStream.readObject(ObjectInputStream.java:427)[0m
+[0m[[31merror[0m] [0m	at sbt.React.react(ForkTests.scala:122)[0m
+[0m[[31merror[0m] [0m	at sbt.ForkTests$$anonfun$mainTestTask$1$Acceptor$2$.run(ForkTests.scala:76)[0m
+[0m[[31merror[0m] [0m	at java.lang.Thread.run(Thread.java:748)[0m
+[0m[[31merror[0m] [0m(myProjectNativeUbuntu18/nativetest:[31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m

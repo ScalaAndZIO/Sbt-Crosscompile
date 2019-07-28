@@ -1,0 +1,37 @@
+[0m[[0mdebug[0m] [0mMerging main manifest /home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/android/AndroidManifest.xml[0m
+[0m[[0mdebug[0m] [0mMerging result:SUCCESS[0m
+[0m[[0mdebug[0m] [0m1<?xml version="1.0" encoding="utf-8"?>[0m
+[0m[[0mdebug[0m] [0m2<manifest xmlns:android="http://schemas.android.com/apk/res/android"[0m
+[0m[[0mdebug[0m] [0m3    package="com.example"[0m
+[0m[[0mdebug[0m] [0m4    android:versionName="0.1-SNAPSHOT" >[0m
+[0m[[0mdebug[0m] [0m5[0m
+[0m[[0mdebug[0m] [0m6    <uses-sdk[0m
+[0m[[0mdebug[0m] [0m7        android:minSdkVersion="19"[0m
+[0m[[0mdebug[0m] [0m8        android:targetSdkVersion="23" />[0m
+[0m[[0mdebug[0m] [0m9[0m
+[0m[[0mdebug[0m] [0m10    <application android:label="scalaAnd" >[0m
+[0m[[0mdebug[0m] [0m10-->/home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/android/AndroidManifest.xml:4:5-15:19[0m
+[0m[[0mdebug[0m] [0m10-->/home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/android/AndroidManifest.xml:4:18-42[0m
+[0m[[0mdebug[0m] [0m11[0m
+[0m[[0mdebug[0m] [0m12        <!-- android:theme="@android:style/Theme.DeviceDefault.Dialog.NoActionBar" -->[0m
+[0m[[0mdebug[0m] [0m13        <activity[0m
+[0m[[0mdebug[0m] [0m13-->/home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/android/AndroidManifest.xml:7:9-14:20[0m
+[0m[[0mdebug[0m] [0m14            android:name="com.example.MainActivity"[0m
+[0m[[0mdebug[0m] [0m14-->/home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/android/AndroidManifest.xml:7:19-46[0m
+[0m[[0mdebug[0m] [0m15            android:label="scalaAnd" >[0m
+[0m[[0mdebug[0m] [0m15-->/home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/android/AndroidManifest.xml:8:19-43[0m
+[0m[[0mdebug[0m] [0m16            <intent-filter>[0m
+[0m[[0mdebug[0m] [0m16-->/home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/android/AndroidManifest.xml:10:13-13:29[0m
+[0m[[0mdebug[0m] [0m17                <action android:name="android.intent.action.MAIN" />[0m
+[0m[[0mdebug[0m] [0m17-->/home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/android/AndroidManifest.xml:11:17-69[0m
+[0m[[0mdebug[0m] [0m17-->/home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/android/AndroidManifest.xml:11:25-66[0m
+[0m[[0mdebug[0m] [0m18[0m
+[0m[[0mdebug[0m] [0m19                <category android:name="android.intent.category.LAUNCHER" />[0m
+[0m[[0mdebug[0m] [0m19-->/home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/android/AndroidManifest.xml:12:17-77[0m
+[0m[[0mdebug[0m] [0m19-->/home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/android/AndroidManifest.xml:12:27-74[0m
+[0m[[0mdebug[0m] [0m20            </intent-filter>[0m
+[0m[[0mdebug[0m] [0m21        </activity>[0m
+[0m[[0mdebug[0m] [0m22    </application>[0m
+[0m[[0mdebug[0m] [0m23[0m
+[0m[[0mdebug[0m] [0m24</manifest>[0m
+[0m[[0mdebug[0m] [0mMerged manifest saved to /home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/android/bin/intermediates/manifest/AndroidManifest.xml[0m

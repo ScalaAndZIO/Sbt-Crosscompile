@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" />
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/myProject/android" />
+            <option value="$PROJECT_DIR$/myProject/android/project" />
+            <option value="$PROJECT_DIR$/myProject/docker" />
+            <option value="$PROJECT_DIR$/myProject/docker/project" />
+            <option value="$PROJECT_DIR$/myProject/js" />
+            <option value="$PROJECT_DIR$/myProject/js/project" />
+            <option value="$PROJECT_DIR$/myProject/jvm" />
+            <option value="$PROJECT_DIR$/myProject/jvm/project" />
+            <option value="$PROJECT_DIR$/myProject/nativeUbuntu18" />
+            <option value="$PROJECT_DIR$/myProject/nativeUbuntu18/project" />
+            <option value="$PROJECT_DIR$/myProject/shared" />
+            <option value="$PROJECT_DIR$/myProject/shared/project" />
+            <option value="$PROJECT_DIR$/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.17" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>

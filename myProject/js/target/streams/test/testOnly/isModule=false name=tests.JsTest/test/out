@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0m[32mJsTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mit [0m[0m
+[0m[[0minfo[0m] [0m[31m- should be true *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.scalajs.js.JavaScriptException: TypeError: (0 , $m_Lorg_querki_jquery_package$(...).$$$1) is not a function[0m[0m
+[0m[[0minfo[0m] [0m[31m  at {anonymous}()(/home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/js/target/scala-2.11/myproject-test-fastopt.js:60294:93)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.scalajs.runtime.AnonFunction0.apply(/home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/js/target/scala-2.11/myproject-test-fastopt.js:33446:23)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(/home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/js/target/scala-2.11/myproject-test-fastopt.js:3002:7)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(/home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/js/target/scala-2.11/myproject-test-fastopt.js:43470:10)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FlatSpecLike$$anon$1.apply(/home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/js/target/scala-2.11/myproject-test-fastopt.js:34513:72)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FlatSpecLike$class.invokeWithFixture$1(/home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/js/target/scala-2.11/myproject-test-fastopt.js:1891:15)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.FlatSpecLike$class.runTest(/home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/js/target/scala-2.11/myproject-test-fastopt.js:1780:5)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at {anonymous}()(/home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/js/target/scala-2.11/myproject-test-fastopt.js:1898:14)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.scalajs.runtime.AnonFunction2.apply(/home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/js/target/scala-2.11/myproject-test-fastopt.js:33506:23)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Engine.traverseSubNodes$1(/home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/js/target/scala-2.11/myproject-test-fastopt.js:12487:65)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m

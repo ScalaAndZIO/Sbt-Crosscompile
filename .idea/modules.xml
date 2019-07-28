@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crosscompileplatforms3june.iml" filepath="$PROJECT_DIR$/.idea/modules/crosscompileplatforms3june.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crosscompileplatforms3june-build.iml" filepath="$PROJECT_DIR$/.idea/modules/crosscompileplatforms3june-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myProject/myProject.iml" filepath="$PROJECT_DIR$/myProject/myProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myProjectAndroid.iml" filepath="$PROJECT_DIR$/.idea/modules/myProjectAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myProjectAndroid-build.iml" filepath="$PROJECT_DIR$/.idea/modules/myProjectAndroid-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myProjectDocker.iml" filepath="$PROJECT_DIR$/.idea/modules/myProjectDocker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myProjectDocker-build.iml" filepath="$PROJECT_DIR$/.idea/modules/myProjectDocker-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myProjectJS.iml" filepath="$PROJECT_DIR$/.idea/modules/myProjectJS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myProjectJS-build.iml" filepath="$PROJECT_DIR$/.idea/modules/myProjectJS-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myProjectJVM.iml" filepath="$PROJECT_DIR$/.idea/modules/myProjectJVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myProjectJVM-build.iml" filepath="$PROJECT_DIR$/.idea/modules/myProjectJVM-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myProjectNativeUbuntu18.iml" filepath="$PROJECT_DIR$/.idea/modules/myProjectNativeUbuntu18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myProjectNativeUbuntu18-build.iml" filepath="$PROJECT_DIR$/.idea/modules/myProjectNativeUbuntu18-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myProjectShared.iml" filepath="$PROJECT_DIR$/.idea/modules/myProjectShared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared-myProjectShared-build.iml" filepath="$PROJECT_DIR$/.idea/modules/shared-myProjectShared-build.iml" />
+    </modules>
+  </component>
+</project>

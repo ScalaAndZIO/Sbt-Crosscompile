@@ -1,0 +1,3 @@
+[warn] Detected an ant-style project layout in myProjectAndroid;
+[warn]   this format has been deprecated in favor of modern layouts
+[warn]   If this is what you want, set 'antLayoutDetector in Android := ()'

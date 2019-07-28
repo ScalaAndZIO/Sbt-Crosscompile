@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0mProcessing resources[0m
+[0m[[0mdebug[0m] [0mAll libs: List()[0m
+[0m[[0mdebug[0m] [0mpackageForR: com.example[0m
+[0m[[0mdebug[0m] [0mproguard.txt: /home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/android/bin/intermediates/proguard/proguard.txt[0m
+[0m[[0minfo[0m] [0mQueuedCruncher is using /home/naseem/Android/Sdk/build-tools/27.0.3/aapt[0m
+[0m[[0mdebug[0m] [0mCustom package for R class: 'com.example'[0m
+[0m[[0mdebug[0m] [0mcommand: /home/naseem/Android/Sdk/build-tools/27.0.3/aapt package -f --no-crunch -I /home/naseem/Android/Sdk/platforms/android-23/android.jar -M /home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/android/bin/intermediates/manifest/AndroidManifest.xml -S /home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/android/bin/intermediates/res -m -J /home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/android/bin/generated/source -G /home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/android/bin/intermediates/proguard/proguard.txt --debug-mode --custom-package com.example --non-constant-id -0 apk --output-text-symbols /home/naseem/Documents/SFreely NEW/CrossCompilePlatforms3June/myProject/android/bin/generated/source --no-version-vectors[0m
